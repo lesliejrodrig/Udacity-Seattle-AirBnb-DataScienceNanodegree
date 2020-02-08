@@ -18,10 +18,8 @@ In this project, I will look to answer the following questions:
 ## Files In This Repository
 I have gathered the Seattle AirBnB data provided by Kaggle here (https://www.kaggle.com/airbnb/seattle). 
 The following files are in this repository: 
-Listings.csv - includes full descriptions of listings and average review score 
-Reviews.csv - includes unique id for each reviewer and detailed comments 
-Calendar.csv - includes listing id and the price and availability for that day
 Data Science Blog Post Project.ipynb - Notebook used to gather, assess, prepare, and analyze the datasets and answer my questions
+README.md
 
 ## Summary Of Results of Analysis
 1. Which AirBnB listings are the most expensive?
