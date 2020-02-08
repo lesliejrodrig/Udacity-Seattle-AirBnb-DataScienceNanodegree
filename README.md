@@ -1,10 +1,4 @@
 # Udacity-Seattle-AirBnb-DataScienceNanodegree
-## Libraries And Technologies Used
-Numpy
-Pandas
-Matplotlib
-Jupyter Notebook
-Python
 
 ## Motivation For This Project
 This project is part of a Udacity Data Scientist for Enterprise Nanodegree Program. I will be analyzing Seattle AirBnB data using the Cross-Industry Process for Data Mining (CRISP-DM). 
@@ -15,11 +9,21 @@ In this project, I will look to answer the following questions:
 3. What areas of Seattle do customers prefer to stay in and which do they avoid? (Popular Neighborhoods vs Unpopular Neighborhoods)
 4. What is the average price in the popular neighborhood versus the unpopular neighborhood?
 
+## Libraries And Technologies Used
+Numpy
+Pandas
+Matplotlib
+Jupyter Notebook
+Python
+
 ## Files In This Repository
 I have gathered the Seattle AirBnB data provided by Kaggle here (https://www.kaggle.com/airbnb/seattle). 
 The following files are in this repository: 
+Listings.csv - includes full descriptions of listings and average review score 
+Reviews.csv - includes unique id for each reviewer and detailed comments 
+Calendar.csv - includes listing id and the price and availability for that day
 Data Science Blog Post Project.ipynb - Notebook used to gather, assess, prepare, and analyze the datasets and answer my questions
-README.md
+README.md 
 
 ## Summary Of Results of Analysis
 1. Which AirBnB listings are the most expensive?
@@ -36,5 +40,7 @@ Tourists tend to avoid booking listings in the areas of Fairmount Park, North Co
 The  most popular neighbourhood averages around 116 while some of the other popular neighbourhoods like Belltown average a higher price at almost 140.
 North College Park has average price around 100 but the second least popular neighbourhood (Fairmount Park) has average prices over 350! Possibly reason for this discussed in notebook.
 
+Link to my blog post can be found here: https://medium.com/@lrodrig/an-analysis-on-seattle-airbnb-data-bbf3726f55d6
+
 ## Acknowledgements
-Udacity and Airbnb
+Udacity and Kaggle and StackOverflow
